@@ -1,8 +1,11 @@
 # Streamlit-Project-1
 
 #Run the following commands in command prompt
+
 pip install streamlit
+
 run streamlit Project1.py 
+
 #Ensure you are in right path/directory where the .py file exist
 
 #You will get the local host like below.
